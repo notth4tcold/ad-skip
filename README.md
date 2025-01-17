@@ -5,6 +5,7 @@ To run:
 pip install pyautogui
 pip install pillow
 pip install pyscreeze==0.1.29
+pip install opencv-python
 
 python server.py
 
